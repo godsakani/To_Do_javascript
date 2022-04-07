@@ -1,0 +1,32 @@
+html,body{
+    width: 58%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    width: 360px;
+}
+#inputFiled{
+    width: 300px; 
+    height: 50px;
+    border: 1px solid royalblue;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+#addToDo{
+    height: 50px;
+    width: 50px;
+    border: 1px solid blueviolet;
+    vertical-align: middle;
+    font-size: 30px;
+}
+.to-dos{
+    margin-top: 30px;
+}
+.paragraph-styling{
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+}
